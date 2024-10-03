@@ -1,0 +1,14 @@
+﻿  GSBattle.cpp
+D:\C++ VS\PVZLike\GSBattle.cpp(69,76): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\C++ VS\PVZLike\GSBattle.cpp(69,46): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+D:\C++ VS\PVZLike\GSBattle.cpp(87,60): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+D:\C++ VS\PVZLike\GSBattle.cpp(87,42): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+  PVZLike.vcxproj -> D:\C++ VS\PVZLike\x64\Debug\PVZLike.exe
